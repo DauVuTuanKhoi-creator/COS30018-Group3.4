@@ -14,7 +14,7 @@ TEST_START = '2023-08-02'
 TEST_END = '2024-07-02'
 
 LOOKBACK_DAYS = 60
-FUTURE_DAYS = 10 #k
+FUTURE_DAYS = 5 #k
 TARGET_COL = 'Close'
 FEATURE_COLS = ['Open', 'High', 'Low', 'Close', 'Volume']
 
